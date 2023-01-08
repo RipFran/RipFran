@@ -20,7 +20,7 @@ const R1pFr4n = {
 }
 ```
 
-## Blog personal: [ripfran.github.io](https://ripfran.github.io/en/)
+## Blog personal: [ripfran.github.io](https://ripfran.github.io/)
 
 <p align="center">
 	<a href="https://app.hackthebox.com/profile/659968" target="_blank">
