@@ -14,9 +14,8 @@ const R1pFr4n = {
   nick: "R1pFr4n",
   location: "Barcelona",
   code: ["Python", "Bash", "C++", "C", "Java", "JavaScript"],
-  architecture: ["microservices", "event-driven", "design system pattern"],
   databases: [ "MySQL", "PostreSQl", "MongoDB", "Redis", "SQLite" ],
-  others: ["Docker","Matlab","Kubernetes","Parrot OS"]
+  others: ["Docker","Matlab","Kubernetes","Parrot OS","assembler"]
 }
 ```
 
